@@ -14,6 +14,18 @@ Filename: 17891.csv
 
 Content: Real Change in Monthly Household Income from Work Per Household Member Among Resident Employed Households at Selected Percentiles
 
+Filename: visual1.ipynb
+
+Content: The first part of visualization
+
+Filename: visual2.ipynb
+
+Content: The second part of visualization
+
+Filename: visual3.ipynb
+
+Content: The third part of visualization
+
 
 Part 2 Prediction
 
