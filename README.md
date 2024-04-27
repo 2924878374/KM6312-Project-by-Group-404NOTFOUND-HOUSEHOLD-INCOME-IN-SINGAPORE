@@ -27,6 +27,7 @@ Filename: visual3.ipynb
 Content: The third part of visualization
 
 
+
 Part 2 Prediction
 
 Filename: pastincome.csv
@@ -36,6 +37,7 @@ Content: The average and median income data from 2000 to 2023
 Filename: Prediction.ipynb
 
 Content: The modeling and accuracy analysis of income prediction
+
 
 
 Part 3 Classification
